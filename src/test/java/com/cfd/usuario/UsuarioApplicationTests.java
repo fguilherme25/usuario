@@ -1,4 +1,4 @@
-package com.cfg.usuario;
+package com.cfd.usuario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
